@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\bin\Debug\String5.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\bin\Debug\String5.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\bin\Debug\String5.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\obj\Debug\String5.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\obj\Debug\String5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\obj\Debug\String5.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\obj\Debug\String5.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\String5\obj\Debug\String5.pdb

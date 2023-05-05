@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\bin\Debug\PrimeNumberRange.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\bin\Debug\PrimeNumberRange.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\bin\Debug\PrimeNumberRange.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\obj\Debug\PrimeNumberRange.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\obj\Debug\PrimeNumberRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\obj\Debug\PrimeNumberRange.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\obj\Debug\PrimeNumberRange.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\PrimeNumberRange\obj\Debug\PrimeNumberRange.pdb

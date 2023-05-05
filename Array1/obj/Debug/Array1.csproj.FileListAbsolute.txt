@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\bin\Debug\Array1.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\bin\Debug\Array1.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\bin\Debug\Array1.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\obj\Debug\Array1.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\obj\Debug\Array1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\obj\Debug\Array1.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\obj\Debug\Array1.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Array1\obj\Debug\Array1.pdb

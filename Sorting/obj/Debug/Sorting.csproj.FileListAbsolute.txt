@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\bin\Debug\Sorting.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\obj\Debug\Sorting.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Sorting\obj\Debug\Sorting.pdb

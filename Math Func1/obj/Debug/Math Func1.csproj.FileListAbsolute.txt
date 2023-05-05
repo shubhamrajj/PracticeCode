@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\bin\Debug\Math Func1.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\bin\Debug\Math Func1.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\bin\Debug\Math Func1.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\obj\Debug\Math Func1.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\obj\Debug\Math Func1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\obj\Debug\Math Func1.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\obj\Debug\Math Func1.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\Math Func1\obj\Debug\Math Func1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\bin\Debug\String4.exe.config
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\bin\Debug\String4.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\bin\Debug\String4.pdb
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\obj\Debug\String4.csproj.AssemblyReference.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\obj\Debug\String4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\obj\Debug\String4.csproj.CoreCompileInputs.cache
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\obj\Debug\String4.exe
+C:\Users\Deep Gayen\source\repos\Practice Codes\String4\obj\Debug\String4.pdb
