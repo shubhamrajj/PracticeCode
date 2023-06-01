@@ -1,0 +1,277 @@
+select admissions.patient_id,
+first_name,
+last_name
+from patients
+JOIN admissions
+ON admissions.patient_id= patients.patient_id
+where diagnosis = 'Dementia';
+
+select * from patients
+
+select first_name
+from patients
+order by len(first_name), first_name
+
+select (select count(*) from patients where gender='M')as male_count, (select count(*) from patients where gender='F') as female_count;
+
+select first_name, last_name,allergies
+from patients
+where allergies = 'Penicillin' or allergies =  'Morphine'
+order by allergies,first_name,last_name;
+
+select patient_id, diagnosis
+from admissions
+group by patient_id, diagnosis
+having count(*)>1;
+
+select city, count(*) as num_patients
+from patients
+group by city
+order by num_patients desc, city;
+
+select first_name, last_name, 'Patient' As role from patients  
+union All 
+select first_name, last_name, 'Doctor'
+from doctors 
+
+select allergies, count(*) as popularity
+from patients
+where
+allergies Is not Null
+group by allergies
+order by popularity desc
+
+select first_name, last_name,birth_date
+from patients
+where year(birth_date) between 1970 and 1979
+order by birth_date
+
+select concat (upper(last_name),',',Lower(first_name))
+from patients
+order by first_name desc
+
+select 
+province_id,
+Sum(height) as sum_height
+from patients
+group by province_id
+having sum_height >= 7000
+
+select (Max(weight) - min(weight))
+from patients
+where last_name = 'Maroni'
+
+select day(admission_date), count(*)
+from admissions
+group by day(admission_date)
+order by count(*) desc
+
+select first_name,last_name, count(*) as total_admission
+from admissions
+join doctors
+on doctors.doctor_id = admissions.attending_doctor_id
+group by attending_doctor_id;
+
+select first_name, last_name, birth_date
+from patients
+where height>160 And weight > 70;
+
+select first_name, last_name, allergies
+from patients
+where city = 'Hamilton' And allergies is not null;
+
+select distinct(city)
+from patients
+WHERE (CITY LIKE "A%") 
+    OR (CITY LIKE "E%")
+    OR (CITY LIKE "I%")
+    OR (CITY LIKE "O%")
+    OR (CITY LIKE "U%")
+order by city;
+
+select  
+doctors.doctor_id,
+concat(first_name," ",last_name) as Full_Name,
+max(admission_date) as last_admission_date, 
+Min(admission_date) as first_admission_date
+from doctors
+join admissions on  doctors.doctor_id = admissions.attending_doctor_id
+group by doctors.doctor_id,Full_Name
+
+select 
+province_name,
+count (*) as patient_count
+from patients
+join province_names on province_names.province_id = patients.province_id 
+group by province_names.province_id
+order by patient_count desc;
+
+select
+concat(patients.first_name, " " ,patients.last_name) as patient_name,
+diagnosis,
+concat(doctors.first_name, " ", doctors.last_name) as doctor_name
+from patients
+join admissions on admissions.patient_id = patients.patient_id
+join doctors on doctors.doctor_id = admissions.attending_doctor_id;
+
+select 
+first_name,
+last_name,
+count(*) as patients_count
+from patients
+group by first_name,last_name
+having count(*)>1;
+
+select 
+concat(first_name, " ",last_name) As Full_Name,
+round(height/30.48,1) as rounded_height,
+round(weight*2.205,0) as rounded_weight,
+birth_date as DOB,
+case 
+when gender = 'M' then 'MALE'
+ELSE 'FEMALE'
+end as 'GENDER'
+from patients;
+
+
+SELECT (weight / 10) * 10 AS weight_group, COUNT(*) AS patients_in_this_weight_group
+FROM patients
+GROUP BY weight_group
+ORDER BY weight_group DESC;
+
+select 
+patient_id, 
+weight, 
+height,
+(case
+when weight/((height*height)/10000.0)>=30 
+ then 1
+else 0
+end) as isObese
+from patients
+
+select patients.patient_id,patients.first_name,patients.last_name, doctors.specialty
+from patients
+join admissions on admissions.patient_id = patients.patient_id
+join doctors on doctors.doctor_id = admissions.attending_doctor_id
+where admissions.diagnosis = 'Epilepsy' and doctors.first_name='Lisa'
+
+select distinct(patients.patient_id),
+concat(patients.patient_id,len(patients.last_name),year(patients.birth_date)) as Password
+from patients
+join admissions on admissions.patient_id = patients.patient_id
+
+
+select 
+case
+when
+(patient_id%2=0)  then 'Yes'
+else 'No'
+end as insurance_availability,
+sum(case
+when
+(patient_id%2=0)  then 10
+else 50
+end) as admission_cost
+from admissions
+group by  insurance_availability
+
+select province_names.province_name
+from patients
+join province_names on province_names.province_id = patients.province_id
+group by province_names.province_name
+having 
+count
+(case when patients.gender = 'M' then 1 END) > count(case when patients.gender = 'F' then 1 end)
+
+select * 
+from patients
+where (first_name like '__r%') 
+and (gender = 'F') 
+and (month(birth_date) in (2,5,12)) 
+and (weight between 60 and 80) 
+and (patient_id%2!=0)
+and (city = 'Kingston');
+
+
+SELECT CONCAT(ROUND(SUM(CASE WHEN gender = 'M' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2), '%') as male_percentage
+FROM patients;
+
+SELECT admission_date,
+       COUNT(admission_date)                                                             AS admission_day,
+       COUNT(admission_date) - LAG(COUNT(admission_date)) OVER (ORDER BY admission_date) AS admission_count_change
+FROM admissions
+GROUP BY admission_date;
+
+select province_name
+from province_names
+order by 
+province_name = 'Ontario' desc,
+province_name
+
+
+
+select employees.first_name,
+employees.last_name,
+count(orders.order_id) as num_orders,
+case when (orders.shipped_date < orders.required_date) then 'On Time'
+else 'Late'
+end as Shipped
+from orders
+join employees on employees.employee_id = orders.employee_id
+group by employees.first_name, employees.last_name, Shipped
+order by employees.last_name,employees.first_name, num_orders desc
+
+
+
+
+select products.product_name,suppliers.company_name,categories.category_name
+from products
+join categories on categories.category_id = products.category_id
+join suppliers on suppliers.supplier_id = products.supplier_id
+
+select city, company_name, contact_name, "customers" as Relationship
+from customers union select city, company_name, contact_name, "suppliers" as Relationship
+from suppliers
+
+select categories.category_name as category, round(avg(products.unit_price),2) as average
+from products
+join categories on categories.category_id = products.category_id
+group by category
+
+
+
+select category_name , description
+from categories
+order by category_name
+
+select contact_name, address, city
+from customers
+where country not in ('Germany','Mexico','Spain')
+
+select order_date, shipped_date, customer_id, freight 
+from orders
+where order_date = "2018-02-26"
+
+select employee_id,order_id,customer_id, required_date, shipped_date
+from orders
+where shipped_date > required_date
+
+select order_id
+from orders
+where (order_id%2=0)
+
+select city, company_name, contact_name
+from customers
+where city like '%L%' 
+order by contact_name
+
+select company_name, contact_name, fax
+from customers
+where fax is not null
+
+select first_name, last_name, max(hire_date)
+from employees
+
+select round(avg(unit_price),2), sum(units_in_stock), sum(discontinued)
+from products
