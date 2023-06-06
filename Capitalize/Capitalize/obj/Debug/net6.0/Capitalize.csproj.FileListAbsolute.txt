@@ -1,0 +1,15 @@
+C:\Users\shubh\source\repos\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.exe
+C:\Users\shubh\source\repos\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.deps.json
+C:\Users\shubh\source\repos\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.runtimeconfig.json
+C:\Users\shubh\source\repos\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.dll
+C:\Users\shubh\source\repos\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.pdb
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.AssemblyInfo.cs
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.dll
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\refint\Capitalize.dll
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.pdb
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.genruntimeconfig.cache
+C:\Users\shubh\source\repos\Capitalize\Capitalize\obj\Debug\net6.0\ref\Capitalize.dll
