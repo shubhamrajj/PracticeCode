@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\bin\Debug\net6.0\PrintNumberPyramid.exe
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\bin\Debug\net6.0\PrintNumberPyramid.deps.json
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\bin\Debug\net6.0\PrintNumberPyramid.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\bin\Debug\net6.0\PrintNumberPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\bin\Debug\net6.0\PrintNumberPyramid.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\refint\PrintNumberPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\PrintNumberPyramid.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintNumberPyramid\PrintNumberPyramid\obj\Debug\net6.0\ref\PrintNumberPyramid.dll
