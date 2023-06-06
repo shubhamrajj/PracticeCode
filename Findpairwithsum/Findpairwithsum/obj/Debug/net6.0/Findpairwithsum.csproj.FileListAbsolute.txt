@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\bin\Debug\net6.0\Findpairwithsum.exe
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\bin\Debug\net6.0\Findpairwithsum.deps.json
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\bin\Debug\net6.0\Findpairwithsum.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\bin\Debug\net6.0\Findpairwithsum.dll
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\bin\Debug\net6.0\Findpairwithsum.pdb
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.dll
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\refint\Findpairwithsum.dll
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.pdb
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\Findpairwithsum.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\Findpairwithsum\Findpairwithsum\obj\Debug\net6.0\ref\Findpairwithsum.dll

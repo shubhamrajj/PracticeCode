@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\bin\Debug\net6.0\ShuffleArray.exe
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\bin\Debug\net6.0\ShuffleArray.deps.json
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\bin\Debug\net6.0\ShuffleArray.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\bin\Debug\net6.0\ShuffleArray.dll
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\bin\Debug\net6.0\ShuffleArray.pdb
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.dll
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\refint\ShuffleArray.dll
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.pdb
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ShuffleArray.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\ShuffleArray\ShuffleArray\obj\Debug\net6.0\ref\ShuffleArray.dll

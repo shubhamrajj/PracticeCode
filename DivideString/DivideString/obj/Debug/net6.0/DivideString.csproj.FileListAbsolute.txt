@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\bin\Debug\net6.0\DivideString.exe
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\bin\Debug\net6.0\DivideString.deps.json
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\bin\Debug\net6.0\DivideString.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\bin\Debug\net6.0\DivideString.dll
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\bin\Debug\net6.0\DivideString.pdb
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.dll
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\refint\DivideString.dll
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.pdb
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\DivideString.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\DivideString\DivideString\obj\Debug\net6.0\ref\DivideString.dll
