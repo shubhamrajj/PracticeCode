@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\bin\Debug\net6.0\Rightanglenumbertriangle.exe
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\bin\Debug\net6.0\Rightanglenumbertriangle.deps.json
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\bin\Debug\net6.0\Rightanglenumbertriangle.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\bin\Debug\net6.0\Rightanglenumbertriangle.dll
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\bin\Debug\net6.0\Rightanglenumbertriangle.pdb
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.dll
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\refint\Rightanglenumbertriangle.dll
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.pdb
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\Rightanglenumbertriangle.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\Rightanglenumbertriangle\Rightanglenumbertriangle\obj\Debug\net6.0\ref\Rightanglenumbertriangle.dll
