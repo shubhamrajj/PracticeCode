@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\bin\Debug\net6.0\Ladderpattern.exe
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\bin\Debug\net6.0\Ladderpattern.deps.json
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\bin\Debug\net6.0\Ladderpattern.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\bin\Debug\net6.0\Ladderpattern.dll
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\bin\Debug\net6.0\Ladderpattern.pdb
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.dll
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\refint\Ladderpattern.dll
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.pdb
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\Ladderpattern.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\Ladderpattern\Ladderpattern\obj\Debug\net6.0\ref\Ladderpattern.dll

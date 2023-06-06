@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\bin\Debug\net6.0\PrintLadder.exe
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\bin\Debug\net6.0\PrintLadder.deps.json
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\bin\Debug\net6.0\PrintLadder.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\bin\Debug\net6.0\PrintLadder.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\bin\Debug\net6.0\PrintLadder.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\refint\PrintLadder.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\PrintLadder.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintLadder\PrintLadder\obj\Debug\net6.0\ref\PrintLadder.dll

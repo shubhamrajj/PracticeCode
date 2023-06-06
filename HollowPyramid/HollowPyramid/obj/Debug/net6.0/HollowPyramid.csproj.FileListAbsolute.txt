@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\bin\Debug\net6.0\HollowPyramid.exe
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\bin\Debug\net6.0\HollowPyramid.deps.json
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\bin\Debug\net6.0\HollowPyramid.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\bin\Debug\net6.0\HollowPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\bin\Debug\net6.0\HollowPyramid.pdb
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\refint\HollowPyramid.dll
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.pdb
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\HollowPyramid.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\HollowPyramid\HollowPyramid\obj\Debug\net6.0\ref\HollowPyramid.dll
