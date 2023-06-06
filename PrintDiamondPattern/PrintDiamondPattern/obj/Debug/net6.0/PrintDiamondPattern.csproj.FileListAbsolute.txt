@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\bin\Debug\net6.0\PrintDiamondPattern.exe
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\bin\Debug\net6.0\PrintDiamondPattern.deps.json
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\bin\Debug\net6.0\PrintDiamondPattern.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\bin\Debug\net6.0\PrintDiamondPattern.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\bin\Debug\net6.0\PrintDiamondPattern.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\refint\PrintDiamondPattern.dll
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.pdb
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\PrintDiamondPattern.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\PrintDiamondPattern\PrintDiamondPattern\obj\Debug\net6.0\ref\PrintDiamondPattern.dll

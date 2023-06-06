@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\bin\Debug\net6.0\CountDuplicates.exe
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\bin\Debug\net6.0\CountDuplicates.deps.json
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\bin\Debug\net6.0\CountDuplicates.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\bin\Debug\net6.0\CountDuplicates.dll
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\bin\Debug\net6.0\CountDuplicates.pdb
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.dll
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\refint\CountDuplicates.dll
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.pdb
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\CountDuplicates.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\CountDuplicates\CountDuplicates\obj\Debug\net6.0\ref\CountDuplicates.dll

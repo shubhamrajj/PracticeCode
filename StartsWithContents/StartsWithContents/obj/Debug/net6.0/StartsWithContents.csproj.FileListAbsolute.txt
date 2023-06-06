@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\bin\Debug\net6.0\StartsWithContents.exe
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\bin\Debug\net6.0\StartsWithContents.deps.json
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\bin\Debug\net6.0\StartsWithContents.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\bin\Debug\net6.0\StartsWithContents.dll
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\bin\Debug\net6.0\StartsWithContents.pdb
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.dll
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\refint\StartsWithContents.dll
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.pdb
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\StartsWithContents.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\StartsWithContents\StartsWithContents\obj\Debug\net6.0\ref\StartsWithContents.dll
