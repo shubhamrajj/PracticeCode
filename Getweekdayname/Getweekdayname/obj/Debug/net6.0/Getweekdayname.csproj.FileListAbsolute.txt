@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\bin\Debug\net6.0\Getweekdayname.exe
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\bin\Debug\net6.0\Getweekdayname.deps.json
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\bin\Debug\net6.0\Getweekdayname.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\bin\Debug\net6.0\Getweekdayname.dll
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\bin\Debug\net6.0\Getweekdayname.pdb
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.dll
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\refint\Getweekdayname.dll
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.pdb
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\Getweekdayname.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\Getweekdayname\Getweekdayname\obj\Debug\net6.0\ref\Getweekdayname.dll

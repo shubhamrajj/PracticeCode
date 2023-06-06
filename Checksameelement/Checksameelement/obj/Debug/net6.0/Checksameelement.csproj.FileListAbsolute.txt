@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\bin\Debug\net6.0\Checksameelement.exe
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\bin\Debug\net6.0\Checksameelement.deps.json
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\bin\Debug\net6.0\Checksameelement.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\bin\Debug\net6.0\Checksameelement.dll
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\bin\Debug\net6.0\Checksameelement.pdb
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.dll
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\refint\Checksameelement.dll
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.pdb
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\Checksameelement.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\Checksameelement\Checksameelement\obj\Debug\net6.0\ref\Checksameelement.dll

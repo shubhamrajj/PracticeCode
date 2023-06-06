@@ -1,0 +1,15 @@
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\bin\Debug\net6.0\CheckFirstTwoCharacters.exe
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\bin\Debug\net6.0\CheckFirstTwoCharacters.deps.json
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\bin\Debug\net6.0\CheckFirstTwoCharacters.runtimeconfig.json
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\bin\Debug\net6.0\CheckFirstTwoCharacters.dll
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\bin\Debug\net6.0\CheckFirstTwoCharacters.pdb
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.csproj.AssemblyReference.cache
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.AssemblyInfoInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.AssemblyInfo.cs
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.csproj.CoreCompileInputs.cache
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.dll
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\refint\CheckFirstTwoCharacters.dll
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.pdb
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\CheckFirstTwoCharacters.genruntimeconfig.cache
+C:\Users\shubh\Desktop\Practice Codes\CheckFirstTwoCharacters\CheckFirstTwoCharacters\obj\Debug\net6.0\ref\CheckFirstTwoCharacters.dll
