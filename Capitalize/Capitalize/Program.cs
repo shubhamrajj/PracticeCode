@@ -2,7 +2,7 @@
 // and last character of each word in a string.
 using System;
 
-class GFG
+class FAL
 {
     static String FirstAndLast(String str)
     {
@@ -36,7 +36,7 @@ class GFG
     // Driver code
     public static void Main(String[] args)
     {
-        String str = "Geeks for Geeks";
+        String str = "shubham raj";
         Console.WriteLine(str);
         Console.WriteLine(FirstAndLast(str));
     }
